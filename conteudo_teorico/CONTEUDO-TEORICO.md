@@ -12,7 +12,7 @@ CHAR(10) -> JOÃO -> Apesar de conter apenas 4 letras seu tamanho não varia con
 
 **VARCAHAR** varia de acordo com seu imput
 **Ex.:**
-VARCHAR(10) -> JOÃO -> Tamanho varia conforme imput, exemplo em questão consumiu 4bts */
+VARCHAR(10) -> JOÃO -> Tamanho varia conforme imput, exemplo em questão consumiu 4bts
 
 CHAR se torna mais performatico por não variar de tamanho. Utilização ideal quando o número de caracteres da coluna nunca for variante.
 
