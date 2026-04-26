@@ -18,3 +18,12 @@ CHAR se torna mais performatico por não variar de tamanho. Utilização ideal q
 
 ### ENUM e Numéricos
 
+enum = ENUMERAÇÃO - conjunto de dados enumerado, fixo
+
+Presente somente no MySQL
+
+Tipos numericos:
+
+Float - números reais
+
+Int - números inteiros
